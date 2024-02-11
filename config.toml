@@ -23,7 +23,7 @@
     [params]
       # Header text, can be markdown
       project_name = "Natel"
-      project_tagline = "Producción de proyectos."
+      project_tagline = "Producción de proyectos para la presentación en la Conatel Paraguay."
 
       # Date format for post list and single pages
       # For more date formats see https://gohugo.io/functions/format/

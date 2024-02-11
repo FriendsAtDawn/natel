@@ -1,7 +1,7 @@
 ---
 title: "Aspecto Legal"
 date: 2022-12-27
-tags: [nasa, shortcodes, figure, sun, moon, earth]
+tags: [legas, proyectos legales, esquema]
 ---
 
 ## ¿Por qué es importante contar con proyectos legales para servicios de telecomunicaciones?
@@ -13,3 +13,11 @@ La implementación de proyectos de telecomunicaciones sin cumplir con las regula
 En la producción de proyectos legales para servicios de telecomunicaciones, se suelen incluir aspectos como los permisos y licencias necesarias para la implementación del proyecto, la evaluación de los impactos ambientales y sociales, y la definición de los requisitos de las autoridades regulatorias.
 
 Además, los proyectos legales también pueden incluir información sobre la propiedad y uso del espectro, los derechos de vía y las obligaciones relacionadas con la protección de la privacidad y la seguridad de la información. Todo esto asegura que los proyectos de telecomunicaciones se ajusten a las normativas y leyes específicas del país y la región, protegiendo los intereses de todos los actores involucrados.
+
+Por lo usual, la presentación de un proyecto responde al siguiente esquema:
+
+- Proyecto legal
+
+- Proyecto económico
+
+- Proyecto técnico

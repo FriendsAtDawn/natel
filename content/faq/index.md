@@ -1,7 +1,7 @@
 ---
 title: "F.A.Q."
 date: 2022-12-27
-tags: [nasa, shortcodes, figure, sun, moon, earth]
+tags: [faq, preguntas]
 ---
 
  Preguntas frecuentes sobre producción de proyectos técnicos y legales para servicios de telecomunicaciones
