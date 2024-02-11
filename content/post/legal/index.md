@@ -21,3 +21,5 @@ Por lo usual, la presentación de un proyecto responde al siguiente esquema:
 - Proyecto económico
 
 - Proyecto técnico
+
+{{< graphcomment >}}
