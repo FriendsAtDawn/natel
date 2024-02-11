@@ -72,7 +72,7 @@
         name = "About"
         url = "/about/"
         weight = 3
-[[menu.nav]]
+      [[menu.nav]]
         name = "F.A.Q."
         url = "/faq/"
         weight = 4
@@ -80,3 +80,7 @@
         name = "RSS"
         url = "/index.xml"
         weight = 5
+      [[menu.nav]]
+        name = "Contacto"
+        url = "/contacto/"
+        weight = 6
